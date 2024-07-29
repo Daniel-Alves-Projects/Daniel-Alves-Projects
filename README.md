@@ -1,12 +1,11 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
-  Faça uma breve aprensentação sua com o seu nome e não esqueça a <strong>Python/Django</strong>.<br>
-  Diga o que você está fazendo no momento, se trabalha ou estuda.
+ Atualmente sou Acadêmico de Engenharia de Software, estou atuando na area de TI como Analista de Suporte Tecnico e busco me aperfeiçoar no desenvolvimente de softwares especialmente na linguagem Python a qual tenho legítimo gosto. Almejo me tornar desenvolvedor back-end de sistemas, agradeço contribuiçoes em meus códigos ou até mesmo críticas construtivas. <strong>Python/Django</strong>
 </p>
 
 <p align="left">
-  🦄 Linguagens: **Python/JavaScript/HTML/CSS.**
+  ☕ Linguagens: **Python/JavaScript/HTML/CSS.**
 </p>
 
 <p align="left">
@@ -14,7 +13,7 @@
 </p>
 
 <p align="left">
-  💌 Contatos: ⤵️
+  💬 Contatos: ⤵️
 </p>
 
 <p align="left">
