@@ -1,11 +1,11 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
- Atualmente sou Acadêmico de Engenharia de Software, estou atuando na area de TI como Analista de Suporte Tecnico e busco me aperfeiçoar no desenvolvimente de softwares especialmente na linguagem Python a qual tenho legítimo gosto. Almejo me tornar desenvolvedor back-end de sistemas, agradeço contribuiçoes em meus códigos ou até mesmo críticas construtivas. <strong>Python/Django</strong>
+ Atualmente sou Acadêmico de Engenharia de Software, estou atuando na area de TI como Analista de Suporte Tecnico e busco me aperfeiçoar no desenvolvimente de softwares especialmente na linguagem Python a qual tenho legítimo gosto. Almejo me tornar desenvolvedor back-end de sistemas, agradeço contribuiçoes em meus códigos ou até mesmo críticas construtivas.
 </p>
 
 <p align="left">
-  ☕ Linguagens: **Python/JavaScript/HTML/CSS.**
+  ☕ Linguagens: **Python/JavaScript/HTML/CSS/MySQL.**
 </p>
 
 <p align="left">
