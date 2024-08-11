@@ -5,7 +5,7 @@
 </p>
 
 <p align="left">
-  ☕ Linguagens: **Python/JavaScript/HTML/CSS/MySQL.**
+  ☕ Linguagens: **Python/JavaScript/HTML/CSS/SQL.**
 </p>
 
 <p align="left">
